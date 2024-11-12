@@ -19,7 +19,7 @@
     </div>
 
     <div class="seminar-footer" style="margin-top: 50px;">
-        <a href="/register" style="background-color: #143009; color: white; padding: 15px 40px; font-size: 18px; text-decoration: none; border-radius: 8px; transition: background-color 0.3s;">
+        <a href="/registered" style="background-color: #143009; color: white; padding: 15px 40px; font-size: 18px; text-decoration: none; border-radius: 8px; transition: background-color 0.3s;">
             Register Now
         </a>
     </div>
