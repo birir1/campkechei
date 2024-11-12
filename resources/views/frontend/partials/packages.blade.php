@@ -2,7 +2,7 @@
     <h1 style="color: #143009; text-align: center; font-size: 32px; margin-bottom: 25px; font-weight: bold;">Kechei Running Camp - Camp Explore</h1>
     
     <img src="{{ asset('img/CampeExplore.jpg') }}" alt="Kechei Running Camp Poster" 
-         style="width: 90%; display: block; margin: 0 auto; height: auto; max-height: 600px; border-radius: 12px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); margin-bottom: 25px;">
+         style="width: 90%; display: block; margin: 0 auto; height: auto; max-height: 1800px; border-radius: 12px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); margin-bottom: 25px;">
 
     <h2 style="color: #eeb601; text-align: center; font-size: 26px; margin-bottom: 20px; font-weight: bold;">Package Details</h2>
     
@@ -23,8 +23,9 @@
     </p>
     
     <div style="text-align: center; margin-top: 25px;">
-        <a href="{{ route('contacts.submit') }}" style="text-decoration: none; background-color: #eeb601; color: #143009; padding: 12px 24px; border-radius: 5px; font-size: 20px; font-weight: bold; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); transition: background-color 0.3s ease;">
+        <a href="/registered" style="text-decoration: none; background-color: #eeb601; color: #143009; padding: 12px 24px; border-radius: 5px; font-size: 20px; font-weight: bold; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); transition: background-color 0.3s ease;">
             Book Now
         </a>
     </div>
+    
 </div>

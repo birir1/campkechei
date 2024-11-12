@@ -12,7 +12,7 @@
                     <div class="tutorial-content">
                         <h4 class="tutorial-title">Basic Running Techniques</h4>
                         <p class="tutorial-description">Master the fundamental running techniques that every athlete needs to improve speed and endurance.</p>
-                        <a href="#" class="tutorial-btn">Watch Now</a>
+                        {{-- <a href="#" class="tutorial-btn">Watch Now</a> --}}
                     </div>
                 </div>
             </div>
@@ -25,7 +25,7 @@
                     <div class="tutorial-content">
                         <h4 class="tutorial-title">Strength Training for Runners</h4>
                         <p class="tutorial-description">Learn the best strength training exercises that complement your running workouts to avoid injuries.</p>
-                        <a href="#" class="tutorial-btn">Watch Now</a>
+                        {{-- <a href="#" class="tutorial-btn">Watch Now</a> --}}
                     </div>
                 </div>
             </div>
@@ -38,7 +38,7 @@
                     <div class="tutorial-content">
                         <h4 class="tutorial-title">Nutrition Tips for Runners</h4>
                         <p class="tutorial-description">Explore the essential nutrition plans that enhance your running performance and recovery.</p>
-                        <a href="#" class="tutorial-btn">Watch Now</a>
+                        {{-- <a href="#" class="tutorial-btn">Watch Now</a> --}}
                     </div>
                 </div>
             </div>

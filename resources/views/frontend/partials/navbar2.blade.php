@@ -37,7 +37,7 @@
 
         <!-- Far Right: Login Link -->
         <div class="unique-login">
-            <a href="/login" class="unique-login-link"><i class="bi bi-person-circle"></i> Login</a>
+            <a href="/registered" class="unique-login-link"><i class="bi bi-person-circle"></i> Register</a>
         </div>
     </div>
 </nav>

@@ -17,7 +17,7 @@
                     <li><strong>Recovery Sessions</strong>: Yoga, massage therapy, and rest strategies.</li>
                     <li><strong>Hydration Tips</strong>: Stay hydrated with expert tips for long-distance running.</li>
                 </ul>
-                <a href="https://www.kecheicentre.com" class="btn btn-primary fitness-learn-more-btn">Learn More</a>
+                <a href="https://premierortho.com/top-tips-for-athletes-to-maintain-peak-performance/" class="btn btn-primary fitness-learn-more-btn">Learn More</a>
             </div>
         </div>
     </div>

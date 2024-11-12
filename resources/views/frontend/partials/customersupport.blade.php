@@ -43,32 +43,46 @@
 
 
             <!-- Right Column: Contact Form -->
-            <div class="col-md-6 contact-form">
-                <h2 class="section-heading">Get in Touch</h2>
-                <p class="section-description">Have a question or need support? Fill out the form below, and our team will get back to you as soon as possible.</p>
-            
-                <form action="{{ route('contact.submit') }}" method="post">
-                    @csrf <!-- This directive generates a CSRF token for security -->
-                    
-                    <div class="form-group">
-                        <label for="name">Name:</label>
-                        <input type="text" id="name" name="name" class="form-control" required>
-                    </div>
-                
-                    <div class="form-group">
-                        <label for="email">Email:</label>
-                        <input type="email" id="email" name="email" class="form-control" required>
-                    </div>
-                
-                    <div class="form-group">
-                        <label for="message">Message:</label>
-                        <textarea id="message" name="message" class="form-control" rows="4" required></textarea>
-                    </div>
-                
-                    <button type="submit" class="btn-submit">Send Message</button>
-                </form>
-                
-            </div>
+            <!-- resources/views/frontend/partials/customersupport.blade.php -->
+
+<div class="col-md-6 contact-form">
+    <h2 class="section-heading">Get in Touch</h2>
+    <p class="section-description">Have a question or need support? Fill out the form below, and our team will get back to you as soon as possible.</p>
+
+    <!-- Display success message -->
+    @if(session('success'))
+        <div class="alert alert-success">
+            {{ session('success') }}
+        </div>
+    @endif
+
+    <!-- Contact Form -->
+    <form action="{{ route('contact.submit') }}" method="POST">
+        @csrf
+
+        <!-- Name Field -->
+        <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" class="form-control" required>
+        </div>
+
+        <!-- Email Field -->
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" class="form-control" required>
+        </div>
+
+        <!-- Message Field -->
+        <div class="form-group">
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" class="form-control" rows="4" required></textarea>
+        </div>
+
+        <!-- Submit Button -->
+        <button type="submit" class="btn-submit">Send Message</button>
+    </form>
+</div>
+
             
         </div>
     </div>

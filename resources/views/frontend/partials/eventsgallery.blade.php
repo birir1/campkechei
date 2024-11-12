@@ -12,7 +12,7 @@
                         <img src="{{ asset('img/train8.png') }}" alt="Event 1" class="event-img img-fluid">
                     </div>
                     <div class="event-info">
-                        <h4 class="event-title">Kechei Marathon 2024</h4>
+                        <h4 class="event-title">Kechei Marathon Fitness Training 2024</h4>
                         <p class="event-date">March 12, 2024</p>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                         <img src="{{ asset('img/train7.png') }}" alt="Event 4" class="event-img img-fluid">
                     </div>
                     <div class="event-info">
-                        <h4 class="event-title">Kechei Running Retreat</h4>
+                        <h4 class="event-title">Kechei Stretch Ups</h4>
                         <p class="event-date">June 17, 2024</p>
                     </div>
                 </div>

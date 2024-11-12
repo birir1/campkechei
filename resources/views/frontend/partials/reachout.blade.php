@@ -10,7 +10,7 @@
                     <p><i class="fas fa-phone"></i> Phone: +254 701 616 456</p>
                     <p><i class="fas fa-map-marker-alt"></i> Address: Iten, Kenya</p>
                 </div>
-                <a href="mailto:info@kecheicentre.com" class="btn btn-primary">Send Us an Email</a>
+                {{-- <a href="mailto:info@kecheicentre.com" class="btn btn-primary">Send Us an Email</a> --}}
             </div>
 
             <!-- Right Column: Map -->

@@ -11,7 +11,7 @@
                 <div class="featured-story-content">
                     <h3 class="featured-story-title">The Journey of Eliud Kipchoge</h3>
                     <p class="featured-story-description">Discover how Eliud Kipchoge transformed from a young runner in Iten to the greatest marathoner of all time. His story of discipline, perseverance, and unparalleled success will inspire athletes and fans alike.</p>
-                    <a href="#" class="btn btn-primary story-read-more-btn">Read Full Story</a>
+                    <a href="https://www.ineos159challenge.com/news/history-is-made-as-eliud-kipchoge-becomes-first-human-to-break-the-two-hour-marathon-barrier/" class="btn btn-primary story-read-more-btn">Read Full Story</a>
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@
                     <div class="runner-story-overlay">
                         <h4 class="runner-story-name">Vivian Cheruiyot</h4>
                         <p class="runner-story-preview">From track to marathon champion, Vivian's rise in the world of long-distance running is nothing short of legendary.</p>
-                        <a href="#" class="story-read-more-btn">Read More</a>
+                        <a href="https://olympics.com/en/athletes/vivian-cheruiyot" class="story-read-more-btn">Read More</a>
                     </div>
                 </div>
             </div>
@@ -34,7 +34,7 @@
                     <div class="runner-story-overlay">
                         <h4 class="runner-story-name">David Rudisha</h4>
                         <p class="runner-story-preview">The world record holder in the 800m, David Rudisha’s story is a testament to speed, power, and dedication.</p>
-                        <a href="#" class="story-read-more-btn">Read More</a>
+                        <a href="https://olympics.com/en/news/david-rudisha-on-his-800m-world-record-legacy-and-life-after-retirement" class="story-read-more-btn">Read More</a>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
                     <div class="runner-story-overlay">
                         <h4 class="runner-story-name">Mary Keitany</h4>
                         <p class="runner-story-preview">As one of the greatest female marathoners, Mary Keitany's journey is filled with triumphs and incredible achievements.</p>
-                        <a href="#" class="story-read-more-btn">Read More</a>
+                        <a href="https://olympics.com/en/athletes/mary-jepkosgei-keitany" class="story-read-more-btn">Read More</a>
                     </div>
                 </div>
             </div>
